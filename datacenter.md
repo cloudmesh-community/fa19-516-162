@@ -24,8 +24,8 @@ IT Load = Total Load / PUE
 IT Load = 25 * 1000/1.15 =  21740 kW
 
 On putting these values in the [Schneider Electric Data Center Carbon
-Footprint Calculator](https://www.schneider-electric.com/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/)
-, the yearly cost and carbon footprint of the data center were calculated as follows:
+Footprint Calculator](https://www.schneider-electric.com/en/work/solutions/system/s1/data-center-and-network-systems/trade-off-tools/data-center-carbon-footprint-comparison-calculator/),
+the yearly cost and carbon footprint of the data center were calculated as follows:
 
 
 | Data center |	Electricity Cost ($/kW) |	IT Load (kW) |	Yearly Cost ($) | Yearly CO2 Footprint (tons) |	CO2 equivalent in cars |
@@ -59,8 +59,6 @@ of energy per year[8].
 locally generated hydroelectric power. The center has a great PUE rating due to 
 factors such as using natural air to cool the systems and using efficient 
 hardware[9].
-
-<https://www.watercalculator.org/water-use/data-centers-water-use/>
 
 ## E.Datacenter.5: California
 
