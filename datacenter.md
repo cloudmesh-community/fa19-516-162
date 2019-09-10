@@ -48,7 +48,7 @@ turbines then spin a generator that produces electricity.
 Hydro electricity accounts for nearly 7% of total electricity produced and 23%
 of the electricity produced using renewable resources in the US.
 
-![Hydro Power Consumption [Source](https://www.eia.gov/energyexplained/us-energy-facts/)](images\hydro.png)
+![Hydro Power Consumption [Source](https://www.eia.gov/energyexplained/us-energy-facts/)](images/hydro.png)
 
 ### Data centers that run on hydro power
 
