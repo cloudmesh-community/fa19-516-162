@@ -1,9 +1,5 @@
 # Steps to set up a virtual python environment in Windows
 
-kkkkkkkk
-
-
-
 1. Create a directory cm and go to that directory
 
     ``mkdir cm && cd cm``
