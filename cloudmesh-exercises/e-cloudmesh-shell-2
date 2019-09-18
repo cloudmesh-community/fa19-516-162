@@ -1,0 +1,29 @@
+# fa19-516-162: Cloudmesh Shell
+
+## E.Cloudmesh.Shell.2: Write a new command with your firstname as the command name.
+
+### Steps
+
+1. Go to directory where virtual environment was created
+
+    ``cd cm``
+    
+2. Activate virtual environment
+
+    ``ENV3\Scripts\activate.bat``
+
+3. Create new command
+
+    ``cms sys command generate katukota``
+
+4. Check if command added
+    
+    ``cms help``
+    
+5. Install the code
+    
+    ``cd cloudmesh-katukota``
+    
+    ``python setup.py install``
+    
+    ``pip install .``

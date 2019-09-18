@@ -1,0 +1,31 @@
+# fa19-516-162: Cloudmesh Shell
+
+## E.Cloudmesh.Shell.1: Install cmd5 and the command cms on your computer.
+
+### Steps
+
+1. Go to directory where virtual environment was created
+
+    ``cd cm``
+    
+2. Activate virtual environment
+
+    ``ENV3\Scripts\activate.bat``
+
+3. Install the cloudmesh installer using pip
+
+    ``pip install cloudmesh-installer``
+
+4. Install cms using the cloudmesh-installer
+    
+    ``cloudmesh-installer git clone cms``
+    
+    ``cloudmesh-installer install cms -e``
+
+5. Verify if cms is installed properly
+
+    ``cms``
+
+6. Exit the cms shell
+
+    ``exit``
