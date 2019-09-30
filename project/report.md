@@ -20,3 +20,9 @@ services.
 - cloudmesh-storage project will provide a REST service based on OpenAPI that 
 uses the cloudmesh API.
 - cloudmesh-storage project will implement virtual directory from local.
+
+## References
+
+## Progress
+
+## Work breakdown
