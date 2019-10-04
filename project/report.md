@@ -25,4 +25,16 @@ uses the cloudmesh API.
 
 ## Progress
 
+1. Setup Oracle cloud config file and installed python api
+2. Made following functions to work as examples on Oracle cloud using python
+- List images
+- Find image with given name
+- List flavors on cloud
+- Stop server with given name
+- Resume stopped server
+- List all servers
+- Delete/Terminate server
+- Reboot server
+- Rename server
+
 ## Work breakdown
