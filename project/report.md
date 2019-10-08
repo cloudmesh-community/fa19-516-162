@@ -25,6 +25,7 @@ uses the cloudmesh API.
 
 ## Progress
 
+### Week 1
 1. Setup Oracle cloud config file and installed python api
 2. Made following functions to work as examples on Oracle cloud using python
 - List images
@@ -36,5 +37,8 @@ uses the cloudmesh API.
 - Delete/Terminate server
 - Reboot server
 - Rename server
+
+### Week 2
+1. Figured out how to use cloudmesh.yaml for credentials
 
 ## Work breakdown
