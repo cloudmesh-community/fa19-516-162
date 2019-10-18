@@ -2,6 +2,11 @@
 
 Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
 
+Example code at github location: 
+<https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
+
+Provider.py will be updated at location:
+<https://github.com/cloudmesh/cloudmesh-oracle/tree/master/cloudmesh/compute/oracle>
 ## Abstract
 
 - Oracle has released a free tier for Oracle cloud.
@@ -26,19 +31,27 @@ uses the cloudmesh API.
 ## Progress
 
 ### Week 1
-1. Setup Oracle cloud config file and installed python api
+1. Setup Oracle cloud config file and installed python api for Oracle
 2. Made following functions to work as examples on Oracle cloud using python
-- List images
-- Find image with given name
-- List flavors on cloud
-- Stop server with given name
-- Resume stopped server
-- List all servers
-- Delete/Terminate server
-- Reboot server
-- Rename server
+    - List images
+    - Find image with given name
+    - List flavors on cloud
+    - Stop server with given name
+    - Resume stopped server
+    - List all servers
+    - Delete/Terminate server
+    - Reboot server
+    - Rename server
 
 ### Week 2
 1. Figured out how to use cloudmesh.yaml for credentials
+2. Installed mongo db on windows successfully
+
+### Week 3
+1. Created python examples for following functions: 
+    - create vcn and subnet
+    - launch an instance
+2. Started integrating examples into Provider.py - In Progress, 
+Have not checked-in yet
 
 ## Work breakdown
