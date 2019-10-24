@@ -5,8 +5,12 @@ Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516
 Example code at github location: 
 <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
 
-Provider.py will be updated at location:
+Provider.py is updated at location:
 <https://github.com/cloudmesh/cloudmesh-oracle/tree/master/cloudmesh/compute/oracle>
+
+Github Insights:
+<https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
+
 ## Abstract
 
 - Oracle has released a free tier for Oracle cloud.
