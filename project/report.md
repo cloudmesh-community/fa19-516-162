@@ -2,14 +2,15 @@
 
 Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
 
+Insights: 
+* <https://github.com/cloudmesh-community/fa19-516-162/graphs/contributors>
+* <https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
+
 Example code at github location: 
 <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
 
-Provider.py is updated at location:
-<https://github.com/cloudmesh/cloudmesh-oracle/tree/master/cloudmesh/compute/oracle>
-
-Github Insights:
-<https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
+Code Directory:
+<https://github.com/cloudmesh/cloudmesh-oracle>
 
 ## Abstract
 
@@ -57,5 +58,10 @@ uses the cloudmesh API.
     - launch an instance
 2. Started integrating examples into Provider.py - In Progress, 
 Have not checked-in yet
+
+### Week 4
+1. Integrated the examples into Provider.py
+2. Fixed issues with integrated examples to make them run via cmd
+3. Fixed issues with saving data in mongo db via commands 
 
 ## Work breakdown
