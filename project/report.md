@@ -67,4 +67,15 @@ Have not checked-in yet
 ### Week 5 (28th October)
 1. Integrating examples related to instance start and stop
 
+### Week 6 (4th November)
+1. boot command worked but with minor defects
+
+### Week 7 (11th November)
+1. ssh command
+
+### Week 8 (18th November)
+1. boot and ssh work with default key
+2. Issues running compute test cases
+3. Started with oracle storage project
+
 ## Work breakdown
