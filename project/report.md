@@ -78,4 +78,12 @@ Have not checked-in yet
 2. Issues running compute test cases
 3. Started with oracle storage project
 
+### Week 9 (25th November)
+1. Able to run test cases
+2. Fixed failing test cases
+3. Started working on oracle manual
+
+### Week 10 (2nd December)
+
+
 ## Work breakdown
