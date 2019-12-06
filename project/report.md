@@ -17,13 +17,16 @@ Code Directory:
 
 Manual page:
 
-* :o2: pointer to cloudmesh-manual for oracle account creation, API, and usage missing
+* <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
+
+Benchmark:
+
+* Pull request pending
 
 
 ## Abstract
 
 Oracle has released a free tier for Oracle cloud.
-
 
 ### Cloudmesh Compute
 
@@ -40,9 +43,12 @@ services.
 uses the cloudmesh API.
 * cloudmesh-storage project will implement virtual directory from local.
 
+
 ## References
 
-:o2: refernces missing
+* OCI Documentation, <https://oracle-cloud-infrastructure-python-sdk
+.readthedocs.io/en/latest/index.html>
+
 
 ## Progress
 
@@ -101,11 +107,12 @@ uses the cloudmesh API.
 3. Started with oracle storage project
 
 ### Week 9 (25th November)
+
 1. Able to run test cases
 2. Fixed failing test cases
 3. Started working on oracle manual
 
 ### Week 10 (2nd December)
 
-
-## Work breakdown
+1. Oracle Storage examples implemented
+2. Oracle Compute manual done
