@@ -3,14 +3,17 @@
 Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
 
 Insights: 
+
 * <https://github.com/cloudmesh-community/fa19-516-162/graphs/contributors>
 * <https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
 
 Example code at github location: 
-<https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
+
+* <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
 
 Code Directory:
-<https://github.com/cloudmesh/cloudmesh-oracle>
+
+* <https://github.com/cloudmesh/cloudmesh-oracle>
 
 ## Abstract
 
