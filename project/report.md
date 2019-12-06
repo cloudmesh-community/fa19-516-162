@@ -15,9 +15,15 @@ Code Directory:
 
 * <https://github.com/cloudmesh/cloudmesh-oracle>
 
+Manual page:
+
+* :o2: pointer to cloudmesh-manual for oracle account creation, API, and usage missing
+
+
 ## Abstract
 
 Oracle has released a free tier for Oracle cloud.
+
 
 ### Cloudmesh Compute
 
@@ -36,7 +42,7 @@ uses the cloudmesh API.
 
 ## References
 
-:o2:
+:o2: refernces missing
 
 ## Progress
 
