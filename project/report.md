@@ -44,15 +44,16 @@ uses the cloudmesh API.
 
 1. Setup Oracle cloud config file and installed python api for Oracle
 2. Made following functions to work as examples on Oracle cloud using python
-    * List images
-    * Find image with given name
-    * List flavors on cloud
-    * Stop server with given name
-    * Resume stopped server
-    * List all servers
-    * Delete/Terminate server
-    * Reboot server
-    * Rename server
+
+   * List images
+   * Find image with given name
+   * List flavors on cloud
+   * Stop server with given name
+   * Resume stopped server
+   * List all servers
+   * Delete/Terminate server
+   * Reboot server
+   * Rename server
 
 ### Week 2 (7th October)
 
@@ -62,10 +63,12 @@ uses the cloudmesh API.
 ### Week 3 (14th October)
 
 1. Created python examples for following functions: 
-    * create vcn and subnet
-    * launch an instance
+
+   * create vcn and subnet
+   * launch an instance
+
 2. Started integrating examples into Provider.py - In Progress, 
-Have not checked-in yet
+   Have not checked-in yet
 
 ### Week 4 (21st October)
 
