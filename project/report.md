@@ -21,7 +21,7 @@ Manual page:
 
 Benchmark:
 
-* Pull request pending
+* <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
 
 
 ## Abstract
@@ -116,3 +116,8 @@ uses the cloudmesh API.
 
 1. Oracle Storage examples implemented
 2. Oracle Compute manual done
+
+### Week 11 (9th December)
+
+1. Oracle storage provider implemented
+2. Run Test cases for storage provider
