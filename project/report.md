@@ -7,21 +7,10 @@ Insights:
 * <https://github.com/cloudmesh-community/fa19-516-162/graphs/contributors>
 * <https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
 
-Example code at github location: 
-
-* <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
-
-Code Directory:
-
-* <https://github.com/cloudmesh/cloudmesh-oracle>
-
-Manual page:
-
-* <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
-
-Benchmark:
-
-* <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
+* Example: <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
+* Code: <https://github.com/cloudmesh/cloudmesh-oracle>
+* Manual: <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
+* Benchmark: <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
 
 
 ## Abstract
@@ -30,32 +19,38 @@ Oracle has released a free tier for Oracle cloud.
 
 ### Cloudmesh Compute
 
-* cloudmesh-compute project will identify Oracle's python API and develop its 
-provider.
-* cloudmesh-compute project will identify how to manage credentials in Oracle.
+* cloudmesh-compute project will identify Oracle's python API and 
+  develop its provider.
+* cloudmesh-compute project will identify how to manage credentials 
+  in Oracle.
 * cloudmesh-compute project will write and run pytests on Oracle cloud. 
 
 ### Cloudmesh Storage
 
-* cloudmesh-storage project will add the feature to access storage from Oracle 
-services.
-* cloudmesh-storage project will provide a REST service based on OpenAPI that 
-uses the cloudmesh API.
+* cloudmesh-storage project will add the feature to access storage from 
+  Oracle services.
+* cloudmesh-storage project will provide a REST service based on 
+  OpenAPI that uses the cloudmesh API.
 * cloudmesh-storage project will implement virtual directory from local.
 
 
 ## References
 
-* OCI Documentation, <https://oracle-cloud-infrastructure-python-sdk
-.readthedocs.io/en/latest/index.html>
+* OCI Documentation, 
+  <https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest/index.html>
 
 
 ## Progress
 
+:o2: please remove teh progress section as it is no longer needed.
+Instead if there is any meaningfull information needed that enhances
+thsi report, please add as paragraphs.
+
 ### Week 1 (30th September)
 
 1. Setup Oracle cloud config file and installed python api for Oracle
-2. Made following functions to work as examples on Oracle cloud using python
+2. Made following functions to work as examples on Oracle cloud using 
+   python
 
    * List images
    * Find image with given name
