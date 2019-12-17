@@ -15,7 +15,12 @@ Insights:
 
 ## Abstract
 
-Oracle has released a free tier for Oracle cloud.
+Cloudmesh is a multi-cloud project aimed at easy access to computing as well as 
+storage resources. Currently, cloudmesh integrates four cloud service providers: 
+AWS, Azure, Openstack and Google. The aim of this project is to integrate Oracle 
+cloud to cloudmesh.
+
+![Cloudmesh](../images/cloudmesh.png)
 
 ### Cloudmesh Compute
 
@@ -42,77 +47,13 @@ Oracle has released a free tier for Oracle cloud.
 
 ## Progress
 
-:o2: please remove teh progress section as it is no longer needed.
-Instead if there is any meaningfull information needed that enhances
-thsi report, please add as paragraphs.
+The basic functionality of both Oracle compute and storage projects
+is done. There is one comment pending to check if we could download the
+credentials for oracle cloud account directly and input the values in the
+cloudmesh.yaml file using the command:
+   
+```
+cms register oracle [--dir=~/.oci]
+```
 
-### Week 1 (30th September)
-
-1. Setup Oracle cloud config file and installed python api for Oracle
-2. Made following functions to work as examples on Oracle cloud using 
-   python
-
-   * List images
-   * Find image with given name
-   * List flavors on cloud
-   * Stop server with given name
-   * Resume stopped server
-   * List all servers
-   * Delete/Terminate server
-   * Reboot server
-   * Rename server
-
-### Week 2 (7th October)
-
-1. Figured out how to use cloudmesh.yaml for credentials
-2. Installed mongo db on windows successfully
-
-### Week 3 (14th October)
-
-1. Created python examples for following functions: 
-
-   * create vcn and subnet
-   * launch an instance
-
-2. Started integrating examples into Provider.py - In Progress, 
-   Have not checked-in yet
-
-### Week 4 (21st October)
-
-1. Integrated the examples into Provider.py
-2. Fixed issues with integrated examples to make them run via cmd
-3. Fixed issues with saving data in mongo db via commands 
-
-### Week 5 (28th October)
-
-1. Integrating examples related to instance start and stop
-
-### Week 6 (4th November)
-
-1. boot command worked but with minor defects
-
-### Week 7 (11th November)
-
-1. ssh command
-
-### Week 8 (18th November)
-
-1. boot and ssh work with default key
-2. Issues running compute test cases
-3. Started with oracle storage project
-
-### Week 9 (25th November)
-
-1. Able to run test cases
-2. Fixed failing test cases
-3. Started working on oracle manual
-
-### Week 10 (2nd December)
-
-1. Oracle Storage examples implemented
-2. Oracle Compute manual done
-
-### Week 11 (9th December)
-
-1. Oracle storage provider implemented
-2. Run Test cases for storage provider
+I haven't found a way to do this yet.
