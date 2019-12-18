@@ -12,6 +12,11 @@ Insights:
 * Manual: <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
 * Benchmark: <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
 
+:o2: Project report is missing, it is mandatory to add the report taht was submitted for 534 and integrate it  int a single report.
+
+once it is integrated it is used for review
+
+
 
 ## Abstract
 
