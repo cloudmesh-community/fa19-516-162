@@ -26,23 +26,7 @@ cloud to cloudmesh.
 
 ![Cloudmesh](../images/cloudmesh.png)
 
-### Cloudmesh Compute
-
-* cloudmesh-compute project will identify Oracle's python API and 
-  develop its provider.
-* cloudmesh-compute project will identify how to manage credentials 
-  in Oracle.
-* cloudmesh-compute project will write and run pytests on Oracle cloud. 
-
-### Cloudmesh Storage
-
-* cloudmesh-storage project will add the feature to access storage from 
-  Oracle services.
-* cloudmesh-storage project will provide a REST service based on 
-  OpenAPI that uses the cloudmesh API.
-* cloudmesh-storage project will implement virtual directory from local.
-
-###	Introduction
+### Introduction
 
 A multi-cloud environment uses resources from multiple cloud providers. The 
 resources can be computing resources, storage services, database services, or 
@@ -68,7 +52,7 @@ include figuring out the python SDK for the Oracle cloud called OCI (Oracle
 Cloud Infrastructure). Using OCI, we will allow Cloudmesh to connect and use 
 computing as well as storage resources on the Oracle cloud.
 
-###	Advantages
+### Advantages
 
 *	Reliability- There is uncertainty about a single cloud's reliability. 
 Accidents happen and having down-times can significantly affect business. Hence, 
@@ -94,7 +78,7 @@ their location for sensitive data.
  services for IoT and ML. Organizations that are using a different cloud 
  provider but require such services will have to depend on different vendors.
 
-###	Current Trends
+### Current Trends
 
 In a recent survey by Gartner, over 81% of the public cloud users said that they
 are working with two or more clouds. The main reason they mentioned is to avoid 
@@ -106,6 +90,22 @@ time. If for any reason, they would like to move to a different cloud, it should
 be easy. For this reason, Gartner also predicts that by 2021, over 75% of the 
 mid-size and large organizations will move to multi-cloud or hybrid cloud 
 strategies.
+
+### Cloudmesh Compute
+
+* cloudmesh-compute project will identify Oracle's python API and 
+  develop its provider.
+* cloudmesh-compute project will identify how to manage credentials 
+  in Oracle.
+* cloudmesh-compute project will write and run pytests on Oracle cloud. 
+
+### Cloudmesh Storage
+
+* cloudmesh-storage project will add the feature to access storage from 
+  Oracle services.
+* cloudmesh-storage project will provide a REST service based on 
+  OpenAPI that uses the cloudmesh API.
+* cloudmesh-storage project will implement virtual directory from local.
 
 ### Lessons Learnt
 
