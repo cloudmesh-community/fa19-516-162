@@ -128,16 +128,13 @@ with the project whenever I had issues.
 ## References
 
 * OCI Documentation, 
-<https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest
-/index.html>
+<https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest/index.html>
 
 * Required Keys and OCIDs, 
 <https://docs.cloud.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm>
 	
 * Cloud Computing book, <https://laszewski.github.io/book/cloud/>
 
-* <https://www.gartner.com/smarterwithgartner/why-organizations-choose-a
--multicloud-strategy/>
+* <https://www.gartner.com/smarterwithgartner/why-organizations-choose-a-multicloud-strategy/>
 
-* <https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud
--india/featured-topics/cloud>
+* <https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-india/featured-topics/cloud>
