@@ -14,10 +14,8 @@ $ cms storage --storage=oracle get ‘big-data\mnist-deep-learning.py’
 
 The downloaded file is then executed.
 
-python 'mnist-deep-learning.py'
-
 ```bash
-$ exec(open(‘mnist-deep-learning.py’.read())
+$ python 'mnist-deep-learning.py'
 ```
 
 ![Model Benchmark](images/model-benchmark.png)
