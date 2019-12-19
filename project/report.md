@@ -1,6 +1,7 @@
 # Oracle Compute and Storage Service
 
 Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
+Gregor
 
 * Insights: 
 
@@ -8,75 +9,78 @@ Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516
     * <https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
 
 * Example: <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
-
 * Code: <https://github.com/cloudmesh/cloudmesh-oracle>
-
 * Manual: <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
-
 * Benchmark: <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
-
 * Open Issues: <https://github.com/cloudmesh/cloudmesh-oracle/issues>
+
+:o2: this report is incomplete send me what yo submitted to the data class
 
 ## Abstract
 
-Cloudmesh is a multi-cloud project aimed at easy access to computing as well as 
-storage resources. Currently, cloudmesh integrates four cloud service providers: 
-AWS, Azure, Openstack and Google. The aim of this project is to integrate Oracle 
-cloud to cloudmesh.
+Cloudmesh is a multi-cloud project aimed at easy access to computing as
+well as storage resources. Currently, cloudmesh integrates four cloud
+service providers: AWS, Azure, Openstack and Google. The aim of this
+project is to integrate Oracle cloud to cloudmesh.
 
-![Cloudmesh](../images/cloudmesh.png)
+![Cloudmesh](images/cloudmesh.png)
 
 ### Introduction
 
-A multi-cloud environment uses resources from multiple cloud providers. The 
-resources can be computing resources, storage services, database services, or 
-any of the several different services offered by the vendors. A multi-cloud 
-environment gives companies the flexibility to use clouds for services that are 
-better managed by them, avoids vendor lock-in, and is more reliable in the event
-of a disaster. Using multiple clouds also increases the storage capacity and 
-computing power of the company's network.
+A multi-cloud environment uses resources from multiple cloud providers.
+The resources can be computing resources, storage services, database
+services, or any of the several different services offered by the
+vendors. A multi-cloud environment gives companies the flexibility to
+use clouds for services that are better managed by them, avoids vendor
+lock-in, and is more reliable in the event of a disaster. Using multiple
+clouds also increases the storage capacity and computing power of the
+company's network.
 
-Cloudmesh aims to bring multiple clouds to a single platform. Via a simple 
-command-line tool, Cloudmesh aims to seamlessly integrate tasks such as the 
-creation and utilization of virtual machines from different cloud providers. The
-user can switch clouds using a single variable. Hence, he does not need to know 
-the process of VM creation on all the clouds. 
+Cloudmesh aims to bring multiple clouds to a single platform. Via a
+simple command-line tool, Cloudmesh aims to seamlessly integrate tasks
+such as the creation and utilization of virtual machines from different
+cloud providers. The user can switch clouds using a single variable.
+Hence, he does not need to know the process of VM creation on all the
+clouds.
 
-On 16th September 2019, Oracle announced a free tier. This allows students and 
-professionals to build, test, and deploy applications on the Oracle cloud and 
-database for free for an unlimited time. The free-tier, though, has limits for 
-various services. Two virtual machines and two block volumes, and 10 GB each of 
-object and archive storage is the current limit for free cloud tier accounts. 
-This project aims to integrate the Oracle cloud with Cloudmesh. This will 
-include figuring out the python SDK for the Oracle cloud called OCI (Oracle 
-Cloud Infrastructure). Using OCI, we will allow Cloudmesh to connect and use 
+On 16th September 2019, Oracle announced a free tier. This allows
+students and professionals to build, test, and deploy applications on
+the Oracle cloud and database for free for an unlimited time. The
+free-tier, though, has limits for various services. Two virtual machines
+and two block volumes, and 10 GB each of object and archive storage is
+the current limit for free cloud tier accounts. This project aims to
+integrate the Oracle cloud with Cloudmesh. This will include figuring
+out the python SDK for the Oracle cloud called OCI (Oracle Cloud
+Infrastructure). Using OCI, we will allow Cloudmesh to connect and use
 computing as well as storage resources on the Oracle cloud.
 
 ### Advantages
 
-*	Reliability- There is uncertainty about a single cloud's reliability. 
-Accidents happen and having down-times can significantly affect business. Hence, 
-organizations are moving towards multi-cloud environments for a reliable 
-network.
+* *Reliability*: There is uncertainty about a single cloud's reliability.
+  Accidents happen and having down-times can significantly affect
+  business. Hence, organizations are moving towards multi-cloud
+  environments for a reliable network.
 
-*	Price- The deployments on the cloud are price-sensitive. Organizations
- are charged for what they use. If a cloud provider increases their prices by 
- even a small margin, it can lead to a loss for large organizations that depend 
- solely on a single cloud provider.
+* *Price*: The deployments on the cloud are price-sensitive. Organizations
+  are charged for what they use. If a cloud provider increases their
+  prices by even a small margin, it can lead to a loss for large
+  organizations that depend solely on a single cloud provider.
  
-*	Data sovereignty- It is the idea that if data is stored in a digital form
-, then it is subjected to the laws of the country it is located in. The cloud 
-providers have their data centers in various locations across the globe. 
-Organizations are hence more comfortable with using data centers nearest to 
-their location for sensitive data. 
+* *Data sovereignty*: It is the idea that if data is stored in a digital form, 
+  then it is subjected to the laws of the country it is located in. The cloud 
+  providers have their data centers in various locations across the globe. 
+  Organizations are hence more comfortable with using data centers nearest to 
+  their location for sensitive data. 
 
-*	Vendor lock-in- It is a very tedious and expensive task to switch between
- cloud providers. It is hence more advisable to use the multi-cloud environment 
- as then moving data from one cloud to another will not take significant effort.
+* *Vendor lock-in*: It is a very tedious and expensive task to switch
+  between cloud providers. It is hence more advisable to use the
+  multi-cloud environment as then moving data from one cloud to another
+  will not take significant effort.
  
-*	Specific Services- Some cloud providers such Google provide specialized
- services for IoT and ML. Organizations that are using a different cloud 
- provider but require such services will have to depend on different vendors.
+* *Specific Services*: Some cloud providers such Google provide
+  specialized services for IoT and ML. Organizations that are using a
+  different cloud provider but require such services will have to depend
+  on different vendors.
 
 ### Current Trends
 
@@ -124,14 +128,10 @@ with the project whenever I had issues.
 
 ## References
 
-* OCI Documentation, 
+1. OCI Documentation, 
 <https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest/index.html>
-
-* Required Keys and OCIDs, 
+1. Required Keys and OCIDs, 
 <https://docs.cloud.oracle.com/iaas/Content/API/Concepts/apisigningkey.htm>
-	
-* Cloud Computing book, <https://laszewski.github.io/book/cloud/>
-
-* <https://www.gartner.com/smarterwithgartner/why-organizations-choose-a-multicloud-strategy/>
-
-* <https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-india/featured-topics/cloud>
+1. Cloud Computing book, <https://laszewski.github.io/book/cloud/>
+1. <https://www.gartner.com/smarterwithgartner/why-organizations-choose-a-multicloud-strategy/>
+1. <https://www.gartner.com/en/conferences/apac/infrastructure-operations-cloud-india/featured-topics/cloud>
