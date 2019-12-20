@@ -1,7 +1,10 @@
 # Oracle Compute and Storage Service
 
-Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
-Gregor von Laszewski
+* Contributors
+
+    * Shivani Katukota, 
+    [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
+    * Gregor von Laszewski
 
 * Insights: 
 
@@ -9,12 +12,17 @@ Gregor von Laszewski
   * <https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
 
 * Example: <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
-* Code: <https://github.com/cloudmesh/cloudmesh-oracle>
-* Manual: <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
-* Benchmark: <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
-* Open Issues: <https://github.com/cloudmesh/cloudmesh-oracle/issues>
 
-:o2: this report is incomplete send me what yo submitted to the data class
+* Code: <https://github.com/cloudmesh/cloudmesh-oracle>
+
+* Manual: <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
+
+* Benchmark: <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
+
+* Open Issues: 
+
+    * <https://github.com/cloudmesh/cloudmesh-oracle/issues>
+    * <https://github.com/cloudmesh/cloudmesh-storage/issues>
 
 ## Abstract
 
