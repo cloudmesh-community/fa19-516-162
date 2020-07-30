@@ -1,24 +1,17 @@
 # Oracle Compute and Storage Service
 
-* Contributors
-
-    * Shivani Katukota, 
-    [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
-    * Gregor von Laszewski
+* Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
+* Gregor von Laszewski
 
 * Insights: 
 
   * <https://github.com/cloudmesh-community/fa19-516-162/graphs/contributors>
   * <https://github.com/cloudmesh/cloudmesh-oracle/graphs/contributors>
 
-* Example: <https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py>
-
-* Code: <https://github.com/cloudmesh/cloudmesh-oracle>
-
-* Manual: <https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md>
-
-* Benchmark: <https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt>
-
+* [Example](https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py)
+* [Code](https://github.com/cloudmesh/cloudmesh-oracle)
+* [Manual](https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md)
+* [Benchmark](https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt)
 * Open Issues: 
 
     * <https://github.com/cloudmesh/cloudmesh-oracle/issues>
@@ -129,10 +122,7 @@ and storage facilities for both structured and unstructured data.
 
 ## Acknowledgements
 
-I would like to thank Professor Gregor von Laszewski for his helpful
-contributions throughout the project via coding, as well as suggestions on
-how to do better. I would also like to thank Mr. Niranda Perera, for helping me 
-with the project whenever I had issues.
+We like to thank Mr. Niranda Perera for his support.
 
 ## References
 
