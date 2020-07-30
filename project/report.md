@@ -1,7 +1,6 @@
 # Oracle Compute and Storage Service
 
-* Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162)
-* Gregor von Laszewski
+Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516-162), Gregor von Laszewski
 
 * Insights: 
 
