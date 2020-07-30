@@ -9,7 +9,7 @@ Shivani Katukota, [fa19-516-162](https://github.com/cloudmesh-community/fa19-516
 
 * [Example](https://github.com/cloudmesh/cloudmesh-oracle/blob/master/examples/examples.py)
 * [Code](https://github.com/cloudmesh/cloudmesh-oracle)
-* [Manual](https://github.com/cloudmesh/cloudmesh-manual/blob/master/docs-source/source/accounts/oracle.md)
+* [Manual](https://cloudmesh.github.io/cloudmesh-manual/accounts/oracle/account.html)
 * [Benchmark](https://github.com/cloudmesh/benchmark/blob/master/results/cloud-oracle-katukota.txt)
 * Open Issues: 
 
